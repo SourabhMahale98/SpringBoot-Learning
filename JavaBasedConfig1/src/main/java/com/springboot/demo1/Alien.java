@@ -1,11 +1,18 @@
 package com.springboot.demo1;
 
-public class Aliean {
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Alien {
+    @Value("34")
     private int age;
+    @Autowired
     private Computer com;
 
-    public void Aliean() {
-        System.out.println("Alian object created.....");
+    public void Alien() {
+        System.out.println("Alien object created.....");
     }
 
     public void code() {

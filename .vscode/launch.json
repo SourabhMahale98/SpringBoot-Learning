@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Demo1Application",
+            "request": "launch",
+            "mainClass": "com.example.springboot1.demo1.Demo1Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Sprringbootapp1Application",
+            "request": "launch",
+            "mainClass": "com.example.springbootapp1.sprringbootapp1.Sprringbootapp1Application",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-Demo1Application<demo1>",
             "request": "launch",
             "cwd": "${workspaceFolder}",

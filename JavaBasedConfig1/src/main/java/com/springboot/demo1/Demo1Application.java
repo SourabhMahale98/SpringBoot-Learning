@@ -25,7 +25,7 @@ public class Demo1Application {
         Desktop dt = context.getBean(Desktop.class);
         dt.compile();
 
-        Aliean a1 = context.getBean(Aliean.class);
+        Alien a1 = context.getBean(Alien.class);
         System.out.println(a1.getAge());
         a1.code();
 
