@@ -1,7 +1,5 @@
 package com.springboot.demo1;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
@@ -16,7 +14,7 @@ import com.springboot.demo1.Config.AppConfig;
 
 // }
 
-public class Demo1Application {
+public class JavaBasedConfig1 {
 
     public static void main(String[] args) {
 

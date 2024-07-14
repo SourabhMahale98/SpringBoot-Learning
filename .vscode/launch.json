@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConnectWithJdbc1Application",
+            "request": "launch",
+            "mainClass": "com.sdm.ConnectWithJDBC1.ConnectWithJdbc1Application"
+        },
+        {
+            "type": "java",
             "name": "Demo1Application",
             "request": "launch",
             "mainClass": "com.example.springboot1.demo1.Demo1Application",

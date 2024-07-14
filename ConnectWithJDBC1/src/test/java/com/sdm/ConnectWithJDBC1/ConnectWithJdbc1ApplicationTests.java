@@ -1,10 +1,10 @@
-package com.springboot.demo1;
+package com.sdm.ConnectWithJDBC1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Demo1ApplicationTests {
+class ConnectWithJdbc1ApplicationTests {
 
 	@Test
 	void contextLoads() {
