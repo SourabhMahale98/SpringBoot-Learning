@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c3b7638-7280-4989-a45f-f4a81c2571a5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../JobApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/src/main/java/com/sdm/JobApp/JobAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JobApp/src/test/java/com/sdm/JobApp/JobAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/src/main/java/com/example/WebAppDemo1/WebAppDemo1Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAppDemo1/src/test/java/com/example/WebAppDemo1/WebAppDemo1ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SourabhMahale98"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SourabhMahale98/SpringBoot-Learning.git",
+    "accountId": "6916756f-55f1-4024-91f6-15ca25834bbd"
+  }
+}]]></component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2js5G0BpqDwcfVkEQFpNHDKLQv4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Unnamed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Smart Tomcat.Unnamed.executor": "Run",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sourabhmahale/SpringBoot learning /SpringBoot-Learning/JobApplication",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Smart Tomcat.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdm.JobApplication.JobApplication" />
+      <module name="JobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="$PROJECT_DIR$" />
+      <option name="docBase" value="$PROJECT_DIR$" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/10.1.26" />
+          <option name="path" value="$USER_HOME$/apache-tomcat-10.1.26" />
+          <option name="version" value="10.1.26.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="-Dspring.profiles.active=dev" />
+      <module name="JobApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Smart Tomcat.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c3b7638-7280-4989-a45f-f4a81c2571a5" name="Changes" comment="" />
+      <created>1722162844501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722162844501</updated>
+    </task>
+    <servers />
+  </component>
+</project>
